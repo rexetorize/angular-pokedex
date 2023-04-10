@@ -1,7 +1,7 @@
 # Pokedex App
 
 This is a Pokedex application made in Angular. The app uses the [PokeAPI](https://pokeapi.co/) to display information about different Pokémon species.
-Live website : 
+Live website : [Angular Pokedex](https://pokedex-by-rex.netlify.app)
 
 ## Features
 
